@@ -1,0 +1,3 @@
+[submodule "BabyOS"]
+	path = BabyOS
+	url = git@github.com:raindrop1028/BabyOS.git
